@@ -3,12 +3,12 @@
     </br>
     <div class="div-ul">
         <ul>
+        </li>
             <li>O Enigma possui 5 enigmas para serem resolvidos.</li>
             <li>Recomendo usar um computador para resolver os desafios.</li>
             <li>Use o que for preciso para resolver os desafios.</li>
             <li>Escreva a reposta em letras maiúsculas e sem qualquer tipo de acentos e espaçamentos</li>
-            <li>A primeira pessoa que vier no meu pv mostrando que resolveu todos os enigmas, mostrando a resposta correta de cada fase, ganhara 1 mês de nitro do discord, caso já tenha eu darei o valor recorrente.</li>
-            <li>ah e legal ser filha da puta, então se você  errar volta no inicio :3.</li>
+            <li>Caso errar a reposta o jogo vai reiniciar.</li>
         </ul>
     </div>
     
